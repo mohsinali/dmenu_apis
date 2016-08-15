@@ -1,3 +1,3 @@
 # dmenu_apis
 
-a [Sails](http://sailsjs.org) application
+DMenu admin using SailsJs(Nodejs) &amp; MongoDB
