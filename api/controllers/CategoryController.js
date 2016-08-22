@@ -10,7 +10,7 @@ module.exports = {
    * `CategoriesController.index()`
   */
   index: function (req, res) {
-    CategoryService.getCategories("", function(cats){      
+    CategoryService.getCategories("", function(cats){
       return res.json(cats);
     })
 
